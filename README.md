@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">A passionate Full Stack Web Developer & Trainer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasit-10" alt="abdulbasit-10" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-munim&label=Profile%20views&color=0e75b6&style=flat" alt="abdul basit" /> </p>
+
 
 - 📫 How to reach me **abasit3110@gmail.com**
 
