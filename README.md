@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-munim&label=Profile%20views&color=0e75b6&style=flat" alt="abdul basit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p>
 
 
 - 📫 How to reach me **abasit3110@gmail.com**
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasit-10&show_icons=true&locale=en" alt="abdulbasit-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasit-10&" alt="abdulbasit-10" /></p>
+
