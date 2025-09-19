@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A passionate Full Stack Web Developer & pornstar from Pakistan.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Pakistan.</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
 
