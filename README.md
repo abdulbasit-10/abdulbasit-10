@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
+<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan.</h3>
 
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p>
-
 <p align="left"> <a href="https://twitter.com/abdulbasit" target="blank"><img src="https://img.shields.io/twitter/follow/abdulbasit?logo=twitter&style=for-the-badge" alt="abdulbasit" /></a> </p>
 
 - 🌱 I’m currently working on **MERN Stack(React, NextJs, ExpressJS, NodeJS, MongoDB, Vercel)**
