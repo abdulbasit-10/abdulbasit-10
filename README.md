@@ -1,12 +1,12 @@
- <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+ <h1 align="center">Hi, I'm Abdul Basit</h1>
 <h3 align="center">CEO & Founder at Encova Solutions Pvt Limited </br>
-🚀 Tech Leader | Full-Stack Engineer | Business Strategist  </br>
+Tech Leader | Full-Stack Engineer | Business Strategist  </br>
 I am a results-driven technology leader from Pakistan with a strong background in full-stack web development and product execution. Currently, I lead Encova Solutions, where we build scalable, high-performance digital solutions for startups and enterprises worldwide.</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.stockcake.com/public/9/1/8/9188a8e9-4bdf-4210-b046-fb70b2b029fd_large/coding-at-night-stockcake.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p>
 
-- 🌱 I’m currently working in the following domains:
+- I’m currently working in the following domains:
 
 1. Web Development (MERN Stack, Next.js, scalable web apps) </br>
 2. Mobile App Development (Flutter – cross-platform apps) </br>
@@ -15,9 +15,9 @@ I am a results-driven technology leader from Pakistan with a strong background i
 5. SaaS Product Development </br>
 6. Cloud Deployment & DevOps (Vercel, modern CI/CD) </br>
 
-- 📫 How to reach me **abasit3110@gmail.com**
+- How to reach me **abasit3110@gmail.com**
 
-- ⚡ Fun fact **I love travel,reading books & playing games.**
+- Fun fact **I love travel,reading books & playing games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
