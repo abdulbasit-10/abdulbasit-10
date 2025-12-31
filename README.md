@@ -8,12 +8,12 @@ I am a results-driven technology leader from Pakistan with a strong background i
 
 - 🌱 I’m currently working in the following domains:
 
-Web Development (MERN Stack, Next.js, scalable web apps)
-Mobile App Development (Flutter – cross-platform apps)
-UI/UX Design (User-centric, modern interfaces)
-AI & Automation Solutions (AI-powered tools & integrations)
-SaaS Product Development
-Cloud Deployment & DevOps (Vercel, modern CI/CD)
+1. Web Development (MERN Stack, Next.js, scalable web apps) </br>
+2. Mobile App Development (Flutter – cross-platform apps) </br>
+3. UI/UX Design (User-centric, modern interfaces) </br>
+4. AI & Automation Solutions (AI-powered tools & integrations) </br>
+5. SaaS Product Development </br>
+6. Cloud Deployment & DevOps (Vercel, modern CI/CD) </br>
 
 - 📫 How to reach me **abasit3110@gmail.com**
 
