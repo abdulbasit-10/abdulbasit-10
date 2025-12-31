@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">CEO & Founder at Encova Solutions Pvt Limited
-🚀 Tech Leader | Full-Stack Engineer | Business Strategist  
+<h3 align="center">CEO & Founder at Encova Solutions Pvt Limited </br>
+🚀 Tech Leader | Full-Stack Engineer | Business Strategist  </br>
 I am a results-driven technology leader from Pakistan with a strong background in full-stack web development and product execution. Currently, I lead Encova Solutions, where we build scalable, high-performance digital solutions for startups and enterprises worldwide.</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
