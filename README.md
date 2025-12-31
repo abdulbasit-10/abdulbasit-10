@@ -6,7 +6,14 @@ I am a results-driven technology leader from Pakistan with a strong background i
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MBWwIbyR4Nj1tkvRfI0xNC2fEO43CIqxIg&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p>
 
-- 🌱 I’m currently working on **MERN Stack(React, NextJs, ExpressJS, NodeJS, MongoDB, Vercel)**
+- 🌱 I’m currently working in the following domains:
+
+Web Development (MERN Stack, Next.js, scalable web apps)
+Mobile App Development (Flutter – cross-platform apps)
+UI/UX Design (User-centric, modern interfaces)
+AI & Automation Solutions (AI-powered tools & integrations)
+SaaS Product Development
+Cloud Deployment & DevOps (Vercel, modern CI/CD)
 
 - 📫 How to reach me **abasit3110@gmail.com**
 
