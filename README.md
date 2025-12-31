@@ -3,7 +3,7 @@
 🚀 Tech Leader | Full-Stack Engineer | Business Strategist  </br>
 I am a results-driven technology leader from Pakistan with a strong background in full-stack web development and product execution. Currently, I lead Encova Solutions, where we build scalable, high-performance digital solutions for startups and enterprises worldwide.</h3>
 
-<img align="right" alt="coding" width="400" src="https://png.pngtree.com/thumb_back/fh260/background/20230713/pngtree-symbolic-code-a-3d-rendering-of-coding-and-programming-concepts-image_3854603.jpg">
+<img align="right" alt="coding" width="400" src="https://images.stockcake.com/public/9/1/8/9188a8e9-4bdf-4210-b046-fb70b2b029fd_large/coding-at-night-stockcake.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p>
 
 - 🌱 I’m currently working in the following domains:
