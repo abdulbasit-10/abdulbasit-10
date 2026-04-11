@@ -8,7 +8,7 @@ I am a results-driven technology leader from Pakistan with a strong background i
 
 - I’m currently working in the following domains:
 
-1. Web Development (MERN Stack, Next.js, scalable web apps) </br>
+1. Web Development (MERN Stack, MEAN Stack, PERN Stack, Next.js, Vue.js, Nest.js, Scalable web apps) </br>
 2. Mobile App Development (Flutter – cross-platform apps) </br>
 3. UI/UX Design (User-centric, modern interfaces) </br>
 4. AI & Automation Solutions (AI-powered tools & integrations) </br>
