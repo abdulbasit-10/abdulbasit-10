@@ -1,4 +1,5 @@
-<style>.tools-container {
+<style>
+  .tools-container {
   display: grid;
   grid-template-columns: repeat(10, 1fr); /* 10 per row */
   gap: 15px; /* equal spacing */
@@ -10,7 +11,8 @@
   height: 40px;
   margin: auto;
   display: block;
-}</style>
+}
+</style>
 
 
 <h1 align="center">Hi, I'm Abdul Basit</h1> <h3 align="center">CEO & Founder at Encova Solutions Pvt Limited </br> Full-Stack Engineer | Tech Leader | Business Strategist </br> I am a results-driven technology leader from Pakistan with a strong background in full-stack web development and product execution. Currently, I lead Encova Solutions, where we build scalable, high-performance digital solutions for startups and enterprises worldwide.</h3> <img align="right" alt="coding" width="400" src="https://images.stockcake.com/public/9/1/8/9188a8e9-4bdf-4210-b046-fb70b2b029fd_large/coding-at-night-stockcake.jpg"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-10" /> </p> I’m currently working in the following domains: </br> 1. Web Development (MERN Stack, MEAN Stack, PERN Stack, Next.js, Vue.js, Nest.js, Scalable web apps) </br> 2. Mobile App Development (Flutter – cross-platform apps) </br> 3. UI/UX Design (User-centric, modern interfaces) </br> 4. AI & Automation Solutions (AI-powered tools & integrations) </br> 5. SaaS Product Development </br> 6. Cloud Deployment & DevOps (Vercel, modern CI/CD) </br> </br> - How to reach me abasit3110@gmail.com </br> - Fun fact I love travel,reading books & playing games. <h3 align="left">Connect With Me:</h3>
