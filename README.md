@@ -2,8 +2,9 @@
 <h3 align="left">Connect With Me:</h3>
 <Table>
   <tr>
-    <a href="https://linkedin.com/in/abdul-basit-1039b522b" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="abdul-basit-1039b522b" height="30" width="40" /></a>
+   <td> <a href="https://linkedin.com/in/abdul-basit-1039b522b" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="abdul-basit-1039b522b" height="30" width="40" /></a>
 <a href="https://instagram.com/basit3239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basit3239" height="30" width="40" /></a>
+  </td>
   </tr>
 </Table>
 
