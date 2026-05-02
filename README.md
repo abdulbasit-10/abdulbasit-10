@@ -20,12 +20,12 @@
 <p align="left" width="1000px">
 <table>
   <tr>
-    <td style="padding:12px;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65"/></td>
+    <td style="padding:10px;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55"/></td>
   </tr>
 
   <tr>
