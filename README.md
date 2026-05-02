@@ -99,10 +99,15 @@
     <td>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+    </td>
   </tr>
 </table>
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></td> </tr> </table>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasit-10&show_icons=true&locale=en&layout=compact" alt="abdulbasit-10" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasit-10&show_icons=true&locale=en" alt="abdulbasit-10" /></p> 
