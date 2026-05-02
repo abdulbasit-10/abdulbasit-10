@@ -29,21 +29,21 @@
   </tr>
 
   <tr>
-    <td style="padding:12px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="65"/></td>
+    <td style="padding:10px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="55"/></td>
   </tr>
 
   <tr>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="65"/></td>
-    <td style="padding:12px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="55"/></td>
+    <td style="padding:10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55"/></td>
   </tr>
 
   <tr>
